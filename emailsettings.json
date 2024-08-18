@@ -1,0 +1,7 @@
+{
+    "DestinationEmail": "mail@example.com",
+    "SmtpServer": "smtp.example.com",
+    "SmtpPort": 587,
+    "SmtpUser": "user@example.com",
+    "SmtpPassword": "c2VuaGE="
+}
